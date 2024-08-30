@@ -5,7 +5,7 @@ import altair as alt
 # Step 1: Load the data and clean it
 @st.cache
 def load_data():
-    df = pd.read_csv('gdp_year_with_more.csv')
+    df = pd.read_csv('C:\Users\Jeremiah\OneDrive\Documents\GitHub\the-a-team\Test_Code\gdp_year_with_more.csv')
 
     # Remove commas and dollar signs, then convert to numeric
     df['GDP'] = df['GDP'].replace({'\$': '', ',': ''}, regex=True).astype(float)

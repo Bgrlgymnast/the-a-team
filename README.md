@@ -53,3 +53,4 @@ In our final project for SMU Data Bootcamps our team has decided to use Data Mod
 - https://docs.google.com/spreadsheets/d/1dxg4mIyu02WaccBMS3JjhtQ3E0L4WrqfIf8oApJkpmw/edit?gid=0#gid=0
 - https://chatgpt.com/
 - https://www.measuringworth.com/datasets/usgdp/result.php
+- https://www.whitehouse.gov/about-the-white-house/presidents/

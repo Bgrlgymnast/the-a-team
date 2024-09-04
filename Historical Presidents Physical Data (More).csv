@@ -1,0 +1,46 @@
+﻿order,name,height_cm,height_in,weight_kg,weight_lb,body_mass_index,body_mass_index_range,birth_day,birth_month,birth_year,birth_date,birthplace,birth_state,death_day,death_month,death_year,death_date,death_age,astrological_sign,term_begin_day,term_begin_month,term_begin_year,term_begin_date,term_end_day,term_end_month,term_end_year,term_end_date,presidency_begin_age,presidency_end_age,political_party,corrected_iq
+1,George Washington,188,74.0,79.4,175,22.5,Normal,22,2,1732,22-02-1732,Westmoreland County,Virginia,14,12,1799,14-12-1799,67,Pisces,30,4,1789,30-04-1789,4,3,1797,04-03-1797,57,65,Unaffiliated,140
+2,John Adams,170,67.0,83.9,185,29.0,Overweight,30,10,1735,30-10-1735,Braintree,Massachusetts,4,7,1826,04-07-1826,90,Scorpio,4,3,1797,04-03-1797,4,3,1801,04-03-1801,61,65,Federalist,155
+3,Thomas Jefferson,189,74.5,82.1,181,23.0,Normal,13,4,1743,13-04-1743,Shadwell,Virginia,4,7,1826,04-07-1826,83,Aries,4,3,1801,04-03-1801,4,3,1809,04-03-1809,57,65,Democratic-Republican,160
+4,James Madison,163,64.0,55.3,122,20.8,Normal,16,3,1751,16-03-1751,Port Conway,Virginia,28,6,1836,28-06-1836,85,Pisces,4,3,1809,04-03-1809,4,3,1817,04-03-1817,57,65,Democratic-Republican,160
+5,James Monroe,183,72.0,85.7,189,25.6,Overweight,28,4,1758,28-04-1758,Monroe Hall,Virginia,4,7,1831,04-07-1831,73,Taurus,4,3,1817,04-03-1817,4,3,1825,04-03-1825,58,66,Democratic-Republican,139
+6,John Quincy Adams,171,67.5,92.1,203,31.5,Obese,11,7,1767,11-07-1767,Braintree,Massachusetts,23,2,1848,23-02-1848,80,Cancer,4,3,1825,04-03-1825,4,3,1829,04-03-1829,57,61,Democratic-Republican,175
+7,Andrew Jackson,185,73.0,63.5,140,18.6,Normal,15,3,1767,15-03-1767,Waxhaws Region,South Carolina,8,6,1845,08-06-1845,78,Pisces,4,3,1829,04-03-1829,4,3,1837,04-03-1837,61,69,Democrat,145
+8,Martin Van Buren,168,66.0,74.4,164,26.4,Overweight,5,12,1782,05-12-1782,Kinderhook,New York,24,7,1862,24-07-1862,79,Sagittarius,4,3,1837,04-03-1837,4,3,1841,04-03-1841,54,58,Democrat,146
+9,William Henry Harrison,173,68.0,73.5,162,24.6,Normal,9,2,1773,09-02-1773,Charles City County,Virginia,4,4,1841,04-04-1841,68,Aquarius,4,3,1841,04-03-1841,4,4,1841,04-04-1841,68,68,Whig,146
+10,John Tyler,183,72.0,72.6,160,21.7,Normal,29,3,1790,29-03-1790,Charles City County,Virginia,18,1,1862,18-01-1862,71,Aries,4,4,1841,04-04-1841,4,3,1845,04-03-1845,51,54,Whig,148
+11,James Knox Polk,173,68.0,78.9,174,26.4,Overweight,2,11,1795,02-11-1795,Pineville,North Carolina,15,6,1849,15-06-1849,53,Scorpio,4,3,1845,04-03-1845,4,3,1849,04-03-1849,49,53,Democrat,143
+12,Zachary Taylor,173,68.0,104.3,230,34.8,Obese,24,11,1784,24-11-1784,Barboursville,Virginia,9,7,1850,09-07-1850,65,Sagittarius,4,3,1849,04-03-1849,9,7,1850,09-07-1850,64,65,Whig,140
+13,Millard Fillmore,175,69.0,65.3,144,21.3,Normal,7,1,1800,07-01-1800,Summerhill,New York,8,5,1874,08-05-1874,74,Capricorn,9,7,1850,09-07-1850,4,3,1853,04-03-1853,50,53,Whig,149
+14,Franklin Pierce,178,70.0,73.5,162,23.2,Normal,23,11,1804,23-11-1804,Hillsborough,New Hampshire,8,10,1869,08-10-1869,64,Sagittarius,4,3,1853,04-03-1853,4,3,1857,04-03-1857,48,52,Democrat,147
+15,James Buchanan,183,72.0,98.4,217,29.4,Overweight,23,4,1791,23-04-1791,Cove Gap,Pennsylvania,1,6,1868,01-06-1868,77,Taurus,4,3,1857,04-03-1857,4,3,1861,04-03-1861,65,69,Democrat,140
+16,Abraham Lincoln,193,76.0,83.9,185,22.5,Normal,12,2,1809,12-02-1809,Sinking Spring,Kentucky,15,4,1865,15-04-1865,56,Aquarius,4,3,1861,04-03-1861,15,4,1865,15-04-1865,52,56,Republican,150
+17,Andrew Johnson,178,70.0,69.9,154,22.1,Normal,29,12,1808,29-12-1808,Raleigh,North Carolina,31,7,1875,31-07-1875,66,Capricorn,15,4,1865,15-04-1865,4,3,1869,04-03-1869,56,60,National Union,140
+18,Ulysses Simpson Grant,173,68.0,70.8,156,23.7,Normal,27,4,1822,27-04-1822,Point Pleasant,Ohio,23,7,1885,23-07-1885,63,Taurus,4,3,1869,04-03-1869,4,3,1877,04-03-1877,46,54,Republican,130
+19,Rutherford Birchard Hayes,174,68.5,79.4,175,26.2,Overweight,4,10,1822,04-10-1822,Delaware,Ohio,17,1,1893,17-01-1893,70,Libran,4,3,1877,04-03-1877,4,3,1881,04-03-1881,54,58,Republican,146
+20,James Abram Garfield,183,72.0,90.7,200,27.1,Overweight,19,11,1831,19-11-1831,Moreland Hills,Ohio,19,9,1881,19-09-1881,49,Scorpio,4,3,1881,04-03-1881,19,9,1881,19-09-1881,49,49,Republican,152
+21,Chester Alan Arthur,188,74.0,101.6,224,28.7,Overweight,5,10,1829,05-10-1829,Fairfield,Vermont,18,11,1886,18-11-1886,57,Libran,19,9,1881,19-09-1881,4,3,1885,04-03-1885,51,55,Republican,152
+22 & 24,Stephen Grover Cleveland,180,71.0,117.9,260,36.4,Severely Obese,18,3,1837,18-03-1837,Caldwell,New Jersey,24,6,1908,24-06-1908,71,Pisces,4,3,1885,04-03-1885,4,3,1897,04-03-1897,47,59,Democrat,144
+23,Benjamin Harrison,168,66.0,72.6,160,25.7,Overweight,20,8,1833,20-08-1833,North Bend,Ohio,13,3,1901,13-03-1901,67,Leo,4,3,1889,04-03-1889,4,3,1893,04-03-1893,55,59,Republican,145
+25,William McKinley,170,67.0,90.3,199,31.2,Obese,29,1,1843,29-01-1843,Niles,Ohio,14,9,1901,14-09-1901,58,Aquarius,4,3,1897,04-03-1897,14,9,1901,14-09-1901,54,58,Republican,143
+26,Theodore Roosevelt,178,70.0,107.5,237,33.9,Obese,27,10,1858,27-10-1858,Manhattan,New York,6,1,1919,06-01-1919,60,Scorpio,14,9,1901,14-09-1901,4,3,1909,04-03-1909,42,50,Republican,153
+27,William Howard Taft,182,71.5,154.2,340,46.6,Morbidly Obese,15,9,1857,15-09-1857,Cincinnati,Ohio,8,3,1930,08-03-1930,72,Virgo,4,3,1909,04-03-1909,4,3,1913,04-03-1913,51,55,Republican,140
+28,Thomas Woodrow Wilson,180,71.0,77.1,170,23.8,Normal,28,12,1856,28-12-1856,Staunton,Virginia,3,2,1924,03-02-1924,67,Capricorn,4,3,1913,04-03-1913,4,3,1921,04-03-1921,56,64,Democrat,155
+29,Warren Gamal Harding,183,72.0,78.5,173,23.4,Normal,2,11,1865,02-11-1865,Blooming Grove,Ohio,2,8,1923,02-08-1923,57,Scorpio,4,3,1921,04-03-1921,2,8,1923,02-08-1923,55,57,Republican,140
+30,John Calvin Coolidge,178,70.0,70.8,156,22.3,Normal,4,7,1872,04-07-1872,Plymouth,Vermont,5,1,1933,05-01-1933,60,Cancer,2,8,1923,02-08-1923,4,3,1929,04-03-1929,51,56,Republican,142
+31,Herbert Clark Hoover,182,71.5,84.8,187,25.6,Overweight,10,8,1874,10-08-1874,West Branch,Iowa,20,10,1964,20-10-1964,90,Leo,4,3,1929,04-03-1929,4,3,1933,04-03-1933,54,58,Republican,142
+32,Franklin Delano Roosevelt,188,74.0,86.2,190,24.4,Normal,30,1,1882,30-01-1882,Hyde Park,New York,12,4,1945,12-04-1945,63,Aquarius,4,3,1933,04-03-1933,12,4,1945,12-04-1945,51,63,Democrat,151
+33,Harry S Truman,175,69.0,75.7,167,24.7,Normal,8,5,1884,08-05-1884,Lamar,Missouri,26,12,1972,26-12-1972,88,Taurus,12,4,1945,12-04-1945,20,1,1953,20-01-1953,60,68,Democrat,140
+34,Dwight David Eisenhower,179,70.5,78.0,172,24.3,Normal,14,10,1890,14-10-1890,Denison,Texas,28,3,1969,28-03-1969,78,Libran,20,1,1953,20-01-1953,20,1,1961,20-01-1961,62,70,Republican,145
+35,John Fitzgerald Kennedy,185,73.0,79.4,175,23.2,Normal,29,5,1917,29-05-1917,Brookline,Massachusetts,22,11,1963,22-11-1963,46,Gemini,20,1,1961,20-01-1961,22,11,1963,22-11-1963,43,46,Democrat,160
+36,Lyndon Baines Johnson,192,75.5,95.3,210,25.9,Overweight,27,8,1908,27-08-1908,Stonewall,Texas,22,1,1973,22-01-1973,64,Virgo,22,11,1963,22-11-1963,20,1,1969,20-01-1969,55,60,Democrat,141
+37,Richard Milhous Nixon,182,71.5,79.4,175,24.0,Normal,9,1,1913,09-01-1913,Yorba Linda,California,22,4,1994,22-04-1994,81,Capricorn,20,1,1969,20-01-1969,9,8,1974,09-08-1974,56,61,Republican,143
+38,Gerald Rudolph Ford,183,72.0,86.2,190,25.7,Overweight,14,7,1913,14-07-1913,Omaha,Nebraska,26,12,2006,26-12-2006,93,Cancer,9,8,1974,09-08-1974,20,1,1977,20-01-1977,61,63,Republican,140
+39,James Earl Carter,177,69.5,80.3,177,25.6,Overweight,1,10,1924,01-10-1924,Plains,Georgia,,,,,,Libran,20,1,1977,20-01-1977,20,1,1981,20-01-1981,52,56,Democrat,157
+40,Ronald Wilson Reagan,185,73.0,81.6,180,23.8,Normal,6,2,1911,06-02-1911,Tampico,Illinois,5,6,2004,05-06-2004,93,Aquarius,20,1,1981,20-01-1981,20,1,1989,20-01-1989,69,77,Republican,142
+41,George Herbert Walker Bush,188,74.0,88.5,195,25.0,Overweight,12,6,1924,12-06-1924,Milton,Massachusetts,30,12,2018,30-12-2018,94,Gemini,20,1,1989,20-01-1989,20,1,1993,20-01-1993,64,68,Republican,143
+42,William Jefferson Clinton,188,74.0,101.2,223,28.6,Overweight,19,8,1946,19-08-1946,Hope,Arkansas,,,,,,Leo,20,1,1993,20-01-1993,20,1,2001,20-01-2001,46,54,Democrat,159
+43,George Walker Bush,182,71.5,84.4,186,25.5,Overweight,6,6,1946,06-06-1946,New Haven,Connecticut,,,,,,Gemini,20,1,2001,20-01-2001,20,1,2009,20-01-2009,54,52,Republican,139
+44,Barack Hussein Obama,185,73.0,81.6,180,23.8,Normal,4,8,1961,04-08-1961,Honolulu,Hawaii,,,,,,Leo,20,1,2009,20-01-2009,20,1,2017,20-01-2017,47,55,Democrat,
+45,Donald John Trump,191,75.0,107.5,237,29.5,Overweight,14,6,1946,14-06-1946,Queens,New York,,,,,,Gemini,20,1,2017,20-01-2017,20,1,2021,20-01-2021,70,74,Republican,
+46,Joseph Robinette Biden,182,71.5,80.7,178,24.4,Normal,20,11,1942,20-11-1942,Scranton,Pennsylvania,,,,,,Scorpio,20,1,2021,20-01-2021,,,,,78,,Democrat,

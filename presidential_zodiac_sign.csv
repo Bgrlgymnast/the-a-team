@@ -1,39 +1,41 @@
 President,Birthday,Sign
-Washington,"February 22, 1732",Pisces
-J. Adams,"October 30, 1735",Scorpio
-Jefferson,"April 13, 1743",Aries
-Madison,"March 16, 1751",Pisces
-Monroe,"April 28, 1758",Taurus
-J.Q. Adams,"July 11, 1767",Cancer
-Jackson,"March 15, 1767",Pisces
-Van Buren,"December 5, 1782",Sagittarius
-W.H. Harrison,"February 9, 1773",Aquarius
-Polk,"November 2, 1795",Scorpio
-Taylor,"November 24, 1784",Sagittarius
-Pierce,"November 23, 1804",Sagittarius
-Buchanan,"April 23, 1791",Taurus
-Lincoln,"February 12, 1809",Aquarius
-Grant,"April 27, 1822",Taurus
-Hayes,"October 4, 1822",Libra
-Garfield,"November 19, 1831",Scorpio
-Cleveland,"March 18, 1837",Pisces
-B. Harrison,"August 20, 1833",Leo
-McKinley,"January 29, 1843",Aquarius
-T. Roosevelt,"October 27, 1858",Scorpio
-Taft,"September 15, 1857",Virgo
-Wilson,"December 28, 1856",Capricorn
-Harding,"November 2, 1865",Scorpio
-Coolidge,"July 4, 1872",Cancer
-Hoover,"August 10, 1874",Leo
-F. Roosevelt,"January 30, 1882",Aquarius
-Truman,"May 8, 1884",Taurus
-Eisenhower,"October 14, 1890",Libra
-Kennedy,29-May-17,Gemini
-L. Johnson,27-Aug-08,Virgo
-Nixon,9-Jan-13,Capricorn
-Carter,1-Oct-24,Libra
-Reagan,6-Feb-11,Aquarius
-G.H.W. Bush,12-Jun-24,Gemini
-Clinton,19-Aug-46,Leo
-G.W. Bush,6-Jul-46,Cancer
-Obama,4-Aug-61,Leo
+Washington,1732-02-22,Pisces
+J. Adams,1735-10-30,Scorpio
+Jefferson,1743-04-13,Aries
+Madison,1751-03-16,Pisces
+Monroe,1758-04-28,Taurus
+J.Q. Adams,1767-07-11,Cancer
+Jackson,1767-03-15,Pisces
+Van Buren,1782-12-05,Sagittarius
+W.H. Harrison,1773-02-09,Aquarius
+Polk,1795-11-02,Scorpio
+Taylor,1784-11-24,Sagittarius
+Pierce,1804-11-23,Sagittarius
+Buchanan,1791-04-23,Taurus
+Lincoln,1809-02-12,Aquarius
+Grant,1822-04-27,Taurus
+Hayes,1822-10-04,Libra
+Garfield,1831-11-19,Scorpio
+Cleveland,1837-03-18,Pisces
+B. Harrison,1833-08-20,Leo
+McKinley,1843-01-29,Aquarius
+T. Roosevelt,1858-10-27,Scorpio
+Taft,1857-09-15,Virgo
+Wilson,1856-12-28,Capricorn
+Harding,1865-11-02,Scorpio
+Coolidge,1872-07-04,Cancer
+Hoover,1874-08-10,Leo
+F. Roosevelt,1882-01-30,Aquarius
+Truman,1884-05-08,Taurus
+Eisenhower,1890-10-14,Libra
+Kennedy,5/29/2017,Gemini
+L. Johnson,8/27/1908,Virgo
+Nixon,1/9/1913,Capricorn
+Carter,10/1/1924,Libra
+Reagan,2/6/1911,Aquarius
+G.H.W. Bush,6/12/1924,Gemini
+Clinton,8/19/1946,Leo
+G.W. Bush,7/6/1946,Cancer
+Obama,8/4/1961,Leo
+Trump,1946-0614,Gemini
+Biden,11/20/1942,Taurus

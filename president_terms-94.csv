@@ -1,0 +1,68 @@
+Start,Stop,Name,VP,BDay,BMonth,BYear
+1789,1797,George Washington,John Adams,22,2,1732
+1797,1801,John Adams,Thomas Jefferson,30,10,1735
+1801,1805,Thomas Jefferson,Aaron Burr,13,4,1743
+1805,1809,Thomas Jefferson,George Clinton,13,4,1743
+1809,1812,James Madison,George Clinton,16,3,1751
+1812,1813,James Madison,office vacant,16,3,1751
+1813,1814,James Madison,Elbridge Gerry,16,3,1751
+1814,1817,James Madison,office vacant,16,3,1751
+1817,1825,James Monroe,Daniel D. Tompkins,28,4,1758
+1825,1829,John Adams,John C. Calhoun,30,10,1735
+1829,1832,Andrew Jackson,John C. Calhoun,15,3,1767
+1832,1833,Andrew Jackson,office vacant,15,3,1767
+1833,1837,Andrew Jackson,Martin Van Buren,15,3,1767
+1837,1841,Martin Buren,Richard M. Johnson,5,12,1782
+1841,1841,William Harrison,John Tyler,9,2,1773
+1841,1845,John Tyler,office vacant,29,3,1790
+1845,1849,James Polk,George M. Dallas,2,11,1795
+1849,1850,Zachary Taylor,Millard Fillmore,24,11,1784
+1850,1853,Millard Fillmore,office vacant,7,1,1800
+1853,1853,Franklin Pierce,William R. King,23,11,1804
+1853,1857,Franklin Pierce,office vacant,23,11,1804
+1857,1861,James Buchanan,John C. Breckinridge,23,4,1791
+1861,1865,Abraham Lincoln,Hannibal Hamlin,12,2,1809
+1865,1865,Abraham Lincoln,Andrew Johnson,12,2,1809
+1865,1869,Andrew Johnson,office vacant,29,12,1808
+1869,1873,Ulysses Grant,Schuyler Colfax,27,4,1822
+1873,1875,Ulysses Grant,Henry Wilson,27,4,1822
+1875,1877,Ulysses Grant,office vacant,27,4,1822
+1877,1881,Rutherford Hayes,William A. Wheeler,4,10,1822
+1881,1881,James Garfield,Chester A. Arthur,19,11,1831
+1881,1885,Chester Arthur,office vacant,5,10,1829
+1885,1885,Grover Cleveland,Thomas A. Hendricks,18,3,1837
+1885,1889,Grover Cleveland,office vacant,18,3,1837
+1889,1893,Benjamin Harrison,Levi P. Morton,20,8,1833
+1893,1897,Grover Cleveland,Adlai E. Stevenson,18,3,1837
+1897,1899,William McKinley,Garret A. Hobart,29,1,1843
+1899,1901,William McKinley,office vacant,29,1,1843
+1901,1901,William McKinley,Theodore Roosevelt,29,1,1843
+1901,1905,Theodore Roosevelt,office vacant,27,10,1858
+1905,1909,Theodore Roosevelt,Charles W. Fairbanks,27,10,1858
+1909,1912,William Taft,James S. Sherman,15,9,1857
+1912,1913,William Taft,office vacant,15,9,1857
+1913,1921,Woodrow Wilson,Thomas R. Marshall,28,12,1856
+1921,1923,Warren Harding,Calvin Coolidge,2,11,1865
+1923,1925,Calvin Coolidge,office vacant,4,7,1872
+1925,1929,Calvin Coolidge,Charles G. Dawes,4,7,1872
+1929,1933,Herbert Hoover,Charles Curtis,10,8,1874
+1933,1941,Franklin Roosevelt,John N. Garner,30,1,1882
+1941,1945,Franklin Roosevelt,Henry A. Wallace,30,1,1882
+1945,1945,Franklin Roosevelt,Harry S. Truman,30,1,1882
+1945,1949,Harry Truman,office vacant,8,5,1884
+1949,1953,Harry Truman,Alben W. Barkley,8,5,1884
+1953,1961,Dwight Eisenhower,Richard M. Nixon,14,10,1890
+1961,1963,John Kennedy,Lyndon B. Johnson,29,5,1917
+1963,1965,Lyndon Johnson,office vacant,27,8,1908
+1965,1969,Lyndon Johnson,Hubert Humphrey,27,8,1908
+1969,1973,Richard Nixon,Spiro T. Agnew,9,1,1913
+1973,1974,Richard Nixon,Gerald R. Ford,9,1,1913
+1974,1977,Gerald Ford,Nelson Rockefeller,14,7,1913
+1977,1981,Jimmy Carter,Walter F. Mondale,1,10,1924
+1981,1989,Ronald Reagan,George H. W. Bush,6,2,1911
+1989,1993,George Bush,Dan Quayle,12,6,1924
+1993,2001,William Clinton,Albert Gore,19,8,1946
+2001,2009,George Bush,Richard Cheney,12,6,1924
+2009,2017,Barack Obama,Joseph R. Biden,4,8,1961
+2017,2021,Donald Trump,Mike Pence,14,6,1946
+2021,2023,Joseph Biden,Kamala Harris,20,11,1942

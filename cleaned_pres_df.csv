@@ -1,238 +1,238 @@
-Year,President,Party
-1789,George Washington,
-1790,George Washington,
-1791,George Washington,
-1792,George Washington,
-1793,George Washington,
-1794,George Washington,
-1795,George Washington,
-1796,George Washington,
-1797,John Adams,Federalist
-1798,John Adams,Federalist
-1799,John Adams,Federalist
-1800,John Adams,Federalist
-1801,Thomas Jefferson,Democratic-Republican
-1802,Thomas Jefferson,Democratic-Republican
-1803,Thomas Jefferson,Democratic-Republican
-1804,Thomas Jefferson,Democratic-Republican
-1805,Thomas Jefferson,Democratic-Republican
-1806,Thomas Jefferson,Democratic-Republican
-1807,Thomas Jefferson,Democratic-Republican
-1808,Thomas Jefferson,Democratic-Republican
-1809,James Madison,Democratic-Republican
-1810,James Madison,Democratic-Republican
-1811,James Madison,Democratic-Republican
-1812,James Madison,Democratic-Republican
-1813,James Madison,Democratic-Republican
-1814,James Madison,Democratic-Republican
-1815,James Madison,Democratic-Republican
-1816,James Madison,Democratic-Republican
-1817,James Monroe,Democratic-Republican
-1818,James Monroe,Democratic-Republican
-1819,James Monroe,Democratic-Republican
-1820,James Monroe,Democratic-Republican
-1821,James Monroe,Democratic-Republican
-1822,James Monroe,Democratic-Republican
-1823,James Monroe,Democratic-Republican
-1824,James Monroe,Democratic-Republican
-1825,John Quincy Adams,Democratic-Republican
-1826,John Quincy Adams,Democratic-Republican
-1827,John Quincy Adams,Democratic-Republican
-1828,John Quincy Adams,Democratic-Republican
-1829,Andrew Jackson,Democrat
-1830,Andrew Jackson,Democrat
-1831,Andrew Jackson,Democrat
-1832,Andrew Jackson,Democrat
-1833,Andrew Jackson,Democrat
-1834,Andrew Jackson,Democrat
-1835,Andrew Jackson,Democrat
-1836,Andrew Jackson,Democrat
-1837,Martin Van Buren,Democrat
-1838,Martin Van Buren,Democrat
-1839,Martin Van Buren,Democrat
-1840,Martin Van Buren,Democrat
-1841,William Henry Harrison,Whig
-1841,John Tyler,Whig
-1842,John Tyler,Whig
-1843,John Tyler,Whig
-1844,John Tyler,Whig
-1845,James K. Polk,Democrat
-1846,James K. Polk,Democrat
-1847,James K. Polk,Democrat
-1848,James K. Polk,Democrat
-1849,Zachary Taylor,Whig
-1850,Millard Fillmore,Whig
-1851,Millard Fillmore,Whig
-1852,Millard Fillmore,Whig
-1853,Franklin Pierce,Democrat
-1854,Franklin Pierce,Democrat
-1855,Franklin Pierce,Democrat
-1856,Franklin Pierce,Democrat
-1857,James Buchanan,Democrat
-1858,James Buchanan,Democrat
-1859,James Buchanan,Democrat
-1860,James Buchanan,Democrat
-1861,Abraham Lincoln,Republican
-1862,Abraham Lincoln,Republican
-1863,Abraham Lincoln,Republican
-1864,Abraham Lincoln,Republican
-1865,Andrew Johnson,National Union
-1866,Andrew Johnson,National Union
-1867,Andrew Johnson,National Union
-1868,Andrew Johnson,National Union
-1869,Ulysses S. Grant,Republican
-1870,Ulysses S. Grant,Republican
-1871,Ulysses S. Grant,Republican
-1872,Ulysses S. Grant,Republican
-1873,Ulysses S. Grant,Republican
-1874,Ulysses S. Grant,Republican
-1875,Ulysses S. Grant,Republican
-1876,Ulysses S. Grant,Republican
-1877,Rutherford B. Hayes,Republican
-1878,Rutherford B. Hayes,Republican
-1879,Rutherford B. Hayes,Republican
-1880,Rutherford B. Hayes,Republican
-1881,James A. Garfield,Republican
-1881,Chester A. Arthur,Republican
-1882,Chester A. Arthur,Republican
-1883,Chester A. Arthur,Republican
-1884,Chester A. Arthur,Republican
-1885,Grover Cleveland,Democrat
-1886,Grover Cleveland,Democrat
-1887,Grover Cleveland,Democrat
-1888,Grover Cleveland,Democrat
-1889,Benjamin Harrison,Republican
-1890,Benjamin Harrison,Republican
-1891,Benjamin Harrison,Republican
-1892,Benjamin Harrison,Republican
-1893,Grover Cleveland,Democrat
-1894,Grover Cleveland,Democrat
-1895,Grover Cleveland,Democrat
-1896,Grover Cleveland,Democrat
-1897,William McKinley,Republican
-1898,William McKinley,Republican
-1899,William McKinley,Republican
-1900,William McKinley,Republican
-1901,Theodore Roosevelt,Republican
-1902,Theodore Roosevelt,Republican
-1903,Theodore Roosevelt,Republican
-1904,Theodore Roosevelt,Republican
-1905,Theodore Roosevelt,Republican
-1906,Theodore Roosevelt,Republican
-1907,Theodore Roosevelt,Republican
-1908,Theodore Roosevelt,Republican
-1909,William Howard Taft,Republican
-1910,William Howard Taft,Republican
-1911,William Howard Taft,Republican
-1912,William Howard Taft,Republican
-1913,Woodrow Wilson,Democrat
-1914,Woodrow Wilson,Democrat
-1915,Woodrow Wilson,Democrat
-1916,Woodrow Wilson,Democrat
-1917,Woodrow Wilson,Democrat
-1918,Woodrow Wilson,Democrat
-1919,Woodrow Wilson,Democrat
-1920,Woodrow Wilson,Democrat
-1921,Warren G. Harding,Republican
-1922,Warren G. Harding,Republican
-1923,Calvin Coolidge,Republican
-1924,Calvin Coolidge,Republican
-1925,Calvin Coolidge,Republican
-1926,Calvin Coolidge,Republican
-1927,Calvin Coolidge,Republican
-1928,Calvin Coolidge,Republican
-1929,Herbert Hoover,Republican
-1930,Herbert Hoover,Republican
-1931,Herbert Hoover,Republican
-1932,Herbert Hoover,Republican
-1933,Franklin Roosevelt,Democrat
-1934,Franklin Roosevelt,Democrat
-1935,Franklin Roosevelt,Democrat
-1936,Franklin Roosevelt,Democrat
-1937,Franklin Roosevelt,Democrat
-1938,Franklin Roosevelt,Democrat
-1939,Franklin Roosevelt,Democrat
-1940,Franklin Roosevelt,Democrat
-1941,Franklin Roosevelt,Democrat
-1942,Franklin Roosevelt,Democrat
-1943,Franklin Roosevelt,Democrat
-1944,Franklin Roosevelt,Democrat
-1945,Harry S. Truman,Democrat
-1946,Harry S. Truman,Democrat
-1947,Harry S. Truman,Democrat
-1948,Harry S. Truman,Democrat
-1949,Harry S. Truman,Democrat
-1950,Harry S. Truman,Democrat
-1951,Harry S. Truman,Democrat
-1952,Harry S. Truman,Democrat
-1953,Dwight D. Eisenhower,Republican
-1954,Dwight D. Eisenhower,Republican
-1955,Dwight D. Eisenhower,Republican
-1956,Dwight D. Eisenhower,Republican
-1957,Dwight D. Eisenhower,Republican
-1958,Dwight D. Eisenhower,Republican
-1959,Dwight D. Eisenhower,Republican
-1960,Dwight D. Eisenhower,Republican
-1961,John F. Kennedy,Democrat
-1962,John F. Kennedy,Democrat
-1963,Lyndon B. Johnson,Democrat
-1964,Lyndon B. Johnson,Democrat
-1965,Lyndon B. Johnson,Democrat
-1966,Lyndon B. Johnson,Democrat
-1967,Lyndon B. Johnson,Democrat
-1968,Lyndon B. Johnson,Democrat
-1969,Richard M. Nixon,Republican
-1970,Richard M. Nixon,Republican
-1971,Richard M. Nixon,Republican
-1972,Richard M. Nixon,Republican
-1973,Richard M. Nixon,Republican
-1974,Gerald Ford,Republican
-1975,Gerald Ford,Republican
-1976,Gerald Ford,Republican
-1977,Jimmy Carter,Democrat
-1978,Jimmy Carter,Democrat
-1979,Jimmy Carter,Democrat
-1980,Jimmy Carter,Democrat
-1981,Ronald Reagan,Republican
-1982,Ronald Reagan,Republican
-1983,Ronald Reagan,Republican
-1984,Ronald Reagan,Republican
-1985,Ronald Reagan,Republican
-1986,Ronald Reagan,Republican
-1987,Ronald Reagan,Republican
-1988,Ronald Reagan,Republican
-1989,George Bush,Republican
-1990,George Bush,Republican
-1991,George Bush,Republican
-1992,George Bush,Republican
-1993,Bill Clinton,Democrat
-1994,Bill Clinton,Democrat
-1995,Bill Clinton,Democrat
-1996,Bill Clinton,Democrat
-1997,Bill Clinton,Democrat
-1998,Bill Clinton,Democrat
-1999,Bill Clinton,Democrat
-2000,Bill Clinton,Democrat
-2001,George W. Bush,Republican
-2002,George W. Bush,Republican
-2003,George W. Bush,Republican
-2004,George W. Bush,Republican
-2005,George W. Bush,Republican
-2006,George W. Bush,Republican
-2007,George W. Bush,Republican
-2008,George W. Bush,Republican
-2009,Barack Obama,Democrat
-2010,Barack Obama,Democrat
-2011,Barack Obama,Democrat
-2012,Barack Obama,Democrat
-2013,Barack Obama,Democrat
-2014,Barack Obama,Democrat
-2015,Barack Obama,Democrat
-2016,Barack Obama,Democrat
-2017,Donald Trump,Republican
-2018,Donald Trump,Republican
-2019,Donald Trump,Republican
-2020,Donald Trump,Republican
-2021,Joe Biden,Democrat
-2022,Joe Biden,Democrat
-2023,Joe Biden,Democrat
+Year,Party,First Name,Last Name
+1789,Independent,George,Washington
+1790,Independent,George,Washington
+1791,Independent,George,Washington
+1792,Independent,George,Washington
+1793,Independent,George,Washington
+1794,Independent,George,Washington
+1795,Independent,George,Washington
+1796,Independent,George,Washington
+1797,Federalist,John,Adams
+1798,Federalist,John,Adams
+1799,Federalist,John,Adams
+1800,Federalist,John,Adams
+1801,Democratic-Republican,Thomas,Jefferson
+1802,Democratic-Republican,Thomas,Jefferson
+1803,Democratic-Republican,Thomas,Jefferson
+1804,Democratic-Republican,Thomas,Jefferson
+1805,Democratic-Republican,Thomas,Jefferson
+1806,Democratic-Republican,Thomas,Jefferson
+1807,Democratic-Republican,Thomas,Jefferson
+1808,Democratic-Republican,Thomas,Jefferson
+1809,Democratic-Republican,James,Madison
+1810,Democratic-Republican,James,Madison
+1811,Democratic-Republican,James,Madison
+1812,Democratic-Republican,James,Madison
+1813,Democratic-Republican,James,Madison
+1814,Democratic-Republican,James,Madison
+1815,Democratic-Republican,James,Madison
+1816,Democratic-Republican,James,Madison
+1817,Democratic-Republican,James,Monroe
+1818,Democratic-Republican,James,Monroe
+1819,Democratic-Republican,James,Monroe
+1820,Democratic-Republican,James,Monroe
+1821,Democratic-Republican,James,Monroe
+1822,Democratic-Republican,James,Monroe
+1823,Democratic-Republican,James,Monroe
+1824,Democratic-Republican,James,Monroe
+1825,Democratic-Republican,John,Adams
+1826,Democratic-Republican,John,Adams
+1827,Democratic-Republican,John,Adams
+1828,Democratic-Republican,John,Adams
+1829,Democrat,Andrew,Jackson
+1830,Democrat,Andrew,Jackson
+1831,Democrat,Andrew,Jackson
+1832,Democrat,Andrew,Jackson
+1833,Democrat,Andrew,Jackson
+1834,Democrat,Andrew,Jackson
+1835,Democrat,Andrew,Jackson
+1836,Democrat,Andrew,Jackson
+1837,Democrat,Martin,Buren
+1838,Democrat,Martin,Buren
+1839,Democrat,Martin,Buren
+1840,Democrat,Martin,Buren
+1841,Whig,William,Harrison
+1841,Whig,John,Tyler
+1842,Whig,John,Tyler
+1843,Whig,John,Tyler
+1844,Whig,John,Tyler
+1845,Democrat,James,Polk
+1846,Democrat,James,Polk
+1847,Democrat,James,Polk
+1848,Democrat,James,Polk
+1849,Whig,Zachary,Taylor
+1850,Whig,Millard,Fillmore
+1851,Whig,Millard,Fillmore
+1852,Whig,Millard,Fillmore
+1853,Democrat,Franklin,Pierce
+1854,Democrat,Franklin,Pierce
+1855,Democrat,Franklin,Pierce
+1856,Democrat,Franklin,Pierce
+1857,Democrat,James,Buchanan
+1858,Democrat,James,Buchanan
+1859,Democrat,James,Buchanan
+1860,Democrat,James,Buchanan
+1861,Republican,Abraham,Lincoln
+1862,Republican,Abraham,Lincoln
+1863,Republican,Abraham,Lincoln
+1864,Republican,Abraham,Lincoln
+1865,National Union,Andrew,Johnson
+1866,National Union,Andrew,Johnson
+1867,National Union,Andrew,Johnson
+1868,National Union,Andrew,Johnson
+1869,Republican,Ulysses,Grant
+1870,Republican,Ulysses,Grant
+1871,Republican,Ulysses,Grant
+1872,Republican,Ulysses,Grant
+1873,Republican,Ulysses,Grant
+1874,Republican,Ulysses,Grant
+1875,Republican,Ulysses,Grant
+1876,Republican,Ulysses,Grant
+1877,Republican,Rutherford,Hayes
+1878,Republican,Rutherford,Hayes
+1879,Republican,Rutherford,Hayes
+1880,Republican,Rutherford,Hayes
+1881,Republican,James,Garfield
+1881,Republican,Chester,Arthur
+1882,Republican,Chester,Arthur
+1883,Republican,Chester,Arthur
+1884,Republican,Chester,Arthur
+1885,Democrat,Grover,Cleveland
+1886,Democrat,Grover,Cleveland
+1887,Democrat,Grover,Cleveland
+1888,Democrat,Grover,Cleveland
+1889,Republican,Benjamin,Harrison
+1890,Republican,Benjamin,Harrison
+1891,Republican,Benjamin,Harrison
+1892,Republican,Benjamin,Harrison
+1893,Democrat,Grover,Cleveland
+1894,Democrat,Grover,Cleveland
+1895,Democrat,Grover,Cleveland
+1896,Democrat,Grover,Cleveland
+1897,Republican,William,McKinley
+1898,Republican,William,McKinley
+1899,Republican,William,McKinley
+1900,Republican,William,McKinley
+1901,Republican,Theodore,Roosevelt
+1902,Republican,Theodore,Roosevelt
+1903,Republican,Theodore,Roosevelt
+1904,Republican,Theodore,Roosevelt
+1905,Republican,Theodore,Roosevelt
+1906,Republican,Theodore,Roosevelt
+1907,Republican,Theodore,Roosevelt
+1908,Republican,Theodore,Roosevelt
+1909,Republican,William,Taft
+1910,Republican,William,Taft
+1911,Republican,William,Taft
+1912,Republican,William,Taft
+1913,Democrat,Woodrow,Wilson
+1914,Democrat,Woodrow,Wilson
+1915,Democrat,Woodrow,Wilson
+1916,Democrat,Woodrow,Wilson
+1917,Democrat,Woodrow,Wilson
+1918,Democrat,Woodrow,Wilson
+1919,Democrat,Woodrow,Wilson
+1920,Democrat,Woodrow,Wilson
+1921,Republican,Warren,Harding
+1922,Republican,Warren,Harding
+1923,Republican,Calvin,Coolidge
+1924,Republican,Calvin,Coolidge
+1925,Republican,Calvin,Coolidge
+1926,Republican,Calvin,Coolidge
+1927,Republican,Calvin,Coolidge
+1928,Republican,Calvin,Coolidge
+1929,Republican,Herbert,Hoover
+1930,Republican,Herbert,Hoover
+1931,Republican,Herbert,Hoover
+1932,Republican,Herbert,Hoover
+1933,Democrat,Franklin,Roosevelt
+1934,Democrat,Franklin,Roosevelt
+1935,Democrat,Franklin,Roosevelt
+1936,Democrat,Franklin,Roosevelt
+1937,Democrat,Franklin,Roosevelt
+1938,Democrat,Franklin,Roosevelt
+1939,Democrat,Franklin,Roosevelt
+1940,Democrat,Franklin,Roosevelt
+1941,Democrat,Franklin,Roosevelt
+1942,Democrat,Franklin,Roosevelt
+1943,Democrat,Franklin,Roosevelt
+1944,Democrat,Franklin,Roosevelt
+1945,Democrat,Harry,Truman
+1946,Democrat,Harry,Truman
+1947,Democrat,Harry,Truman
+1948,Democrat,Harry,Truman
+1949,Democrat,Harry,Truman
+1950,Democrat,Harry,Truman
+1951,Democrat,Harry,Truman
+1952,Democrat,Harry,Truman
+1953,Republican,Dwight,Eisenhower
+1954,Republican,Dwight,Eisenhower
+1955,Republican,Dwight,Eisenhower
+1956,Republican,Dwight,Eisenhower
+1957,Republican,Dwight,Eisenhower
+1958,Republican,Dwight,Eisenhower
+1959,Republican,Dwight,Eisenhower
+1960,Republican,Dwight,Eisenhower
+1961,Democrat,John,Kennedy
+1962,Democrat,John,Kennedy
+1963,Democrat,Lyndon,Johnson
+1964,Democrat,Lyndon,Johnson
+1965,Democrat,Lyndon,Johnson
+1966,Democrat,Lyndon,Johnson
+1967,Democrat,Lyndon,Johnson
+1968,Democrat,Lyndon,Johnson
+1969,Republican,Richard,Nixon
+1970,Republican,Richard,Nixon
+1971,Republican,Richard,Nixon
+1972,Republican,Richard,Nixon
+1973,Republican,Richard,Nixon
+1974,Republican,Gerald,Ford
+1975,Republican,Gerald,Ford
+1976,Republican,Gerald,Ford
+1977,Democrat,Jimmy,Carter
+1978,Democrat,Jimmy,Carter
+1979,Democrat,Jimmy,Carter
+1980,Democrat,Jimmy,Carter
+1981,Republican,Ronald,Reagan
+1982,Republican,Ronald,Reagan
+1983,Republican,Ronald,Reagan
+1984,Republican,Ronald,Reagan
+1985,Republican,Ronald,Reagan
+1986,Republican,Ronald,Reagan
+1987,Republican,Ronald,Reagan
+1988,Republican,Ronald,Reagan
+1989,Republican,George,Bush
+1990,Republican,George,Bush
+1991,Republican,George,Bush
+1992,Republican,George,Bush
+1993,Democrat,Bill,Clinton
+1994,Democrat,Bill,Clinton
+1995,Democrat,Bill,Clinton
+1996,Democrat,Bill,Clinton
+1997,Democrat,Bill,Clinton
+1998,Democrat,Bill,Clinton
+1999,Democrat,Bill,Clinton
+2000,Democrat,Bill,Clinton
+2001,Republican,George,Bush
+2002,Republican,George,Bush
+2003,Republican,George,Bush
+2004,Republican,George,Bush
+2005,Republican,George,Bush
+2006,Republican,George,Bush
+2007,Republican,George,Bush
+2008,Republican,George,Bush
+2009,Democrat,Barack,Obama
+2010,Democrat,Barack,Obama
+2011,Democrat,Barack,Obama
+2012,Democrat,Barack,Obama
+2013,Democrat,Barack,Obama
+2014,Democrat,Barack,Obama
+2015,Democrat,Barack,Obama
+2016,Democrat,Barack,Obama
+2017,Republican,Donald,Trump
+2018,Republican,Donald,Trump
+2019,Republican,Donald,Trump
+2020,Republican,Donald,Trump
+2021,Democrat,Joe,Biden
+2022,Democrat,Joe,Biden
+2023,Democrat,Joe,Biden

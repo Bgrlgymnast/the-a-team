@@ -8,35 +8,10 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 # Initialize Streamlit app
 st.title("Presidential Outcome Predictor")
 
-# Load the saved model (replace 'model_path.pkl' with the actual path)
-model = joblib.load('C:/Users/dell/Documents/GitHub/the-a-team/model4-95.ipynb')
-
-# Load and preprocess data if required (e.g., features like economy, polling, etc.)
-# Depending on what the notebook uses, you might need to adjust preprocessing here.
-# For demonstration, we're using some placeholder sample data.
-
-X_train = pd.DataFrame({
-    'region': ['north', 'south', 'east', 'west', 'midwest'],
-    'economy_index': [50, 40, 55, 60, 48],
-    'polling_percentage': [45, 55, 60, 50, 47],
-    'candidate1_advantage': [1, 0, 1, 0, 1]
-})
-
-y_train = pd.DataFrame({
-    'outcome_win': [1, 0, 1, 0, 1],  # 1: Win, 0: Loss
-    'electoral_votes': [270, 250, 320, 200, 275]
-})
-
-# Initialize vectorizer for text features like regions (adjust based on your notebook features)
-vectorizer = TfidfVectorizer()
-
-# Standardize the numerical features (adjust to match the features in your model)
-scaler = StandardScaler()
-X_train[['economy_index', 'polling_percentage']] = scaler.fit_transform(X_train[['economy_index', 'polling_percentage']])
-
-# Vectorize and combine with other features (this is simplified; adjust as per notebook's feature engineering)
-X_train_region_vectorized = vectorizer.fit_transform(X_train['region'])
-X_train_combined = np.hstack([X_train_region_vectorized.toarray(), X_train[['economy_index', 'polling_percentage', 'candidate1_advantage']].values])
+# Load the saved model, vectorizer, and scaler
+model = joblib.load("trained_presidential_model.pkl")
+vectorizer = joblib.load("vectorizer.pkl")
+scaler = joblib.load("scaler.pkl")
 
 # User input for region
 input_region = st.text_input("Enter the region (north, south, east, west, midwest)", "")
@@ -48,7 +23,7 @@ default_candidate_advantage = st.radio("Is Candidate 1 in advantage?", (0, 1))
 
 # Button to trigger the prediction
 if st.button("Predict"):
-    if input_region:
+    if input_region and input_region in vectorizer.vocabulary_:
         # Vectorize the input region
         input_region_vectorized = vectorizer.transform([input_region])
 
@@ -60,9 +35,14 @@ if st.button("Predict"):
 
         # Make the prediction using the loaded model
         y_pred_new = model.predict(input_combined)
+        y_prob_new = model.predict_proba(input_combined)
 
         # Display the prediction result
         st.write("Predicted Outcome (1: Win, 0: Loss):", y_pred_new[0][0])
         st.write("Predicted Electoral Votes:", y_pred_new[0][1])
+
+        # Display probability
+        st.write("Probability of Win:", y_prob_new[0][1])
+        st.write("Probability of Loss:", y_prob_new[0][0])
     else:
         st.write("Please enter a valid region.")

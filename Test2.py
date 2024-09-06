@@ -4,7 +4,7 @@ import plotly.express as px
 
 # Load the datasets, eh? It's like cracking open a cold one, except with data.
 df_presidents = pd.read_csv('presidentfinal_df.csv')
-df_zodiac = pd.read_csv('presidential_zodiac_sign.csv')
+df_zodiac = pd.read_csv('zodiacs_df.csv')
 
 # Gotta clean up those names, eh? We don't want any loose whitespace. Tidy like your toque.
 df_presidents['President'] = df_presidents['First Name'].str.strip() + ' ' + df_presidents['Last Name'].str.strip()

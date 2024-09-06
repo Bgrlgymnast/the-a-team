@@ -7,15 +7,15 @@ df_presidents = pd.read_csv('presidentfinal_df.csv')
 df_zodiac = pd.read_csv('zodiacs_df.csv')
 
 # Gotta clean up those names, eh? We don't want any loose whitespace. Tidy like your toque.
-df_presidents['President'] = df_presidents['First Name'].str.strip() + ' ' + df_presidents['Last Name'].str.strip()
-df_zodiac['President'] = df_zodiac['President'].str.strip()
+df_presidents['president'] = df_presidents['first_name'].str.strip() + ' ' + df_presidents['last_name'].str.strip()
+df_zodiac['president'] = df_zodiac['president'].str.strip()
 
 # Ok, now we check if any presidents are missing their zodiac sign, eh? Like when the beer's gone.
-presidents_missing_zodiac = df_presidents[~df_presidents['President'].isin(df_zodiac['President'])]
-st.write("Presidents without zodiac info:", presidents_missing_zodiac[['President']])
+presidents_missing_zodiac = df_presidents[~df_presidents['president'].isin(df_zodiac['president'])]
+st.write("Presidents without zodiac info:", presidents_missing_zodiac[['president']])
 
 # Now we merge the datasets, kinda like putting the maple syrup on your pancakes.
-df = pd.merge(df_presidents, df_zodiac, on='President', how='left')
+df = pd.merge(df_presidents, df_zodiac, on='president', how='left')
 
 # Just checking to make sure the merge worked, eh? We need to see the Presidents and their signs, like a puck and a stick.
 st.write("Merged Data Preview:", df[['President', 'Sign']].head())
@@ -32,14 +32,14 @@ st.sidebar.title("President Comparison")
 
 # Multiselect for presidents, like choosing your team, eh?
 selected_presidents = st.sidebar.multiselect(
-    "Select Presidents", df['President'].unique())
+    "Select Presidents", df['president'].unique())
 
 # Now let's get some categories to compare, like comparing beers, eh? What do ya wanna see?
 comparison_categories = st.sidebar.multiselect(
     "Select Categories", list(category_mapping.keys()))
 
 # Now we gotta show the zodiac sign for the selected president. It's like checking what beer they like, eh?
-selected_president = st.sidebar.selectbox("Select President for Horoscope", df['President'].unique())
+selected_president = st.sidebar.selectbox("Select President for Horoscope", df['president'].unique())
 
 # We're making sure the zodiac sign is found. If not, it's like saying "Sorry, eh? No sign for you."
 if not df[df['President'] == selected_president].empty:

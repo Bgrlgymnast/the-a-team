@@ -1,4 +1,4 @@
-Year,Party,First Name,Last Name
+Year,Party,first_name,last_name
 1789,Independent,George,Washington
 1790,Independent,George,Washington
 1791,Independent,George,Washington
@@ -56,10 +56,10 @@ Year,Party,First Name,Last Name
 1842,Whig,John,Tyler
 1843,Whig,John,Tyler
 1844,Whig,John,Tyler
-1845,Democrat,James,Polk
-1846,Democrat,James,Polk
-1847,Democrat,James,Polk
-1848,Democrat,James,Polk
+1845,Democrat,James K, Polk
+1846,Democrat,James K, Polk
+1847,Democrat,James K, Polk
+1848,Democrat,James K, Polk
 1849,Whig,Zachary,Taylor
 1850,Whig,Millard,Fillmore
 1851,Whig,Millard,Fillmore
@@ -80,23 +80,23 @@ Year,Party,First Name,Last Name
 1866,National Union,Andrew,Johnson
 1867,National Union,Andrew,Johnson
 1868,National Union,Andrew,Johnson
-1869,Republican,Ulysses,Grant
-1870,Republican,Ulysses,Grant
-1871,Republican,Ulysses,Grant
-1872,Republican,Ulysses,Grant
-1873,Republican,Ulysses,Grant
-1874,Republican,Ulysses,Grant
-1875,Republican,Ulysses,Grant
-1876,Republican,Ulysses,Grant
-1877,Republican,Rutherford,Hayes
-1878,Republican,Rutherford,Hayes
-1879,Republican,Rutherford,Hayes
-1880,Republican,Rutherford,Hayes
-1881,Republican,James,Garfield
-1881,Republican,Chester,Arthur
-1882,Republican,Chester,Arthur
-1883,Republican,Chester,Arthur
-1884,Republican,Chester,Arthur
+1869,Republican,Ulysses S, Grant
+1870,Republican,Ulysses S, Grant
+1871,Republican,Ulysses S, Grant
+1872,Republican,Ulysses S, Grant
+1873,Republican,Ulysses S, Grant
+1874,Republican,Ulysses S, Grant
+1875,Republican,Ulysses S, Grant
+1876,Republican,Ulysses S, Grant
+1877,Republican,Rutherford B, Hayes
+1878,Republican,Rutherford B, Hayes
+1879,Republican,Rutherford B, Hayes
+1880,Republican,Rutherford B, Hayes
+1881,Republican,James A, Garfield
+1881,Republican,Chester A, Arthur
+1882,Republican,Chester A, Arthur
+1883,Republican,Chester A, Arthur
+1884,Republican,Chester A, Arthur
 1885,Democrat,Grover,Cleveland
 1886,Democrat,Grover,Cleveland
 1887,Democrat,Grover,Cleveland
@@ -133,8 +133,8 @@ Year,Party,First Name,Last Name
 1918,Democrat,Woodrow,Wilson
 1919,Democrat,Woodrow,Wilson
 1920,Democrat,Woodrow,Wilson
-1921,Republican,Warren,Harding
-1922,Republican,Warren,Harding
+1921,Republican,Warren G, Harding
+1922,Republican,Warren G, Harding
 1923,Republican,Calvin,Coolidge
 1924,Republican,Calvin,Coolidge
 1925,Republican,Calvin,Coolidge
@@ -157,35 +157,35 @@ Year,Party,First Name,Last Name
 1942,Democrat,Franklin,Roosevelt
 1943,Democrat,Franklin,Roosevelt
 1944,Democrat,Franklin,Roosevelt
-1945,Democrat,Harry,Truman
-1946,Democrat,Harry,Truman
-1947,Democrat,Harry,Truman
-1948,Democrat,Harry,Truman
-1949,Democrat,Harry,Truman
-1950,Democrat,Harry,Truman
-1951,Democrat,Harry,Truman
-1952,Democrat,Harry,Truman
-1953,Republican,Dwight,Eisenhower
-1954,Republican,Dwight,Eisenhower
-1955,Republican,Dwight,Eisenhower
-1956,Republican,Dwight,Eisenhower
-1957,Republican,Dwight,Eisenhower
-1958,Republican,Dwight,Eisenhower
-1959,Republican,Dwight,Eisenhower
-1960,Republican,Dwight,Eisenhower
-1961,Democrat,John,Kennedy
-1962,Democrat,John,Kennedy
-1963,Democrat,Lyndon,Johnson
-1964,Democrat,Lyndon,Johnson
-1965,Democrat,Lyndon,Johnson
-1966,Democrat,Lyndon,Johnson
-1967,Democrat,Lyndon,Johnson
-1968,Democrat,Lyndon,Johnson
-1969,Republican,Richard,Nixon
-1970,Republican,Richard,Nixon
-1971,Republican,Richard,Nixon
-1972,Republican,Richard,Nixon
-1973,Republican,Richard,Nixon
+1945,Democrat,Harry S, Truman
+1946,Democrat,Harry S, Truman
+1947,Democrat,Harry S, Truman
+1948,Democrat,Harry S, Truman
+1949,Democrat,Harry S, Truman
+1950,Democrat,Harry S, Truman
+1951,Democrat,Harry S, Truman
+1952,Democrat,Harry S, Truman
+1953,Republican,Dwight D, Eisenhower
+1954,Republican,Dwight D, Eisenhower
+1955,Republican,Dwight D, Eisenhower
+1956,Republican,Dwight D, Eisenhower
+1957,Republican,Dwight D, Eisenhower
+1958,Republican,Dwight D, Eisenhower
+1959,Republican,Dwight D, Eisenhower
+1960,Republican,Dwight D, Eisenhower
+1961,Democrat,John F, Kennedy
+1962,Democrat,John F, Kennedy
+1963,Democrat,Lyndon B, Johnson
+1964,Democrat,Lyndon B, Johnson
+1965,Democrat,Lyndon B, Johnson
+1966,Democrat,Lyndon B, Johnson
+1967,Democrat,Lyndon B, Johnson
+1968,Democrat,Lyndon B, Johnson
+1969,Republican,Richard M, Nixon
+1970,Republican,Richard M, Nixon
+1971,Republican,Richard M, Nixon
+1972,Republican,Richard M, Nixon
+1973,Republican,Richard M, Nixon
 1974,Republican,Gerald,Ford
 1975,Republican,Gerald,Ford
 1976,Republican,Gerald,Ford
@@ -213,14 +213,14 @@ Year,Party,First Name,Last Name
 1998,Democrat,Bill,Clinton
 1999,Democrat,Bill,Clinton
 2000,Democrat,Bill,Clinton
-2001,Republican,George,Bush
-2002,Republican,George,Bush
-2003,Republican,George,Bush
-2004,Republican,George,Bush
-2005,Republican,George,Bush
-2006,Republican,George,Bush
-2007,Republican,George,Bush
-2008,Republican,George,Bush
+2001,Republican,George W, Bush
+2002,Republican,George W, Bush
+2003,Republican,George W, Bush
+2004,Republican,George W, Bush
+2005,Republican,George W, Bush
+2006,Republican,George W, Bush
+2007,Republican,George W, Bush
+2008,Republican,George W, Bush
 2009,Democrat,Barack,Obama
 2010,Democrat,Barack,Obama
 2011,Democrat,Barack,Obama

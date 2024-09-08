@@ -12,7 +12,7 @@ vp_encoder = joblib.load('VP_encoder.pkl')
 name_encoder = joblib.load('name_encoder.pkl')
 
 # Streamlit app title
-st.title("How Would you Fare as President? A Horoscope")
+st.title("How Would you Fare as President? A Horoscope Outlook")
 
 # Input form for BDay, BMonth, and Party
 bday = st.number_input('Enter your Birth Day:', min_value=1, max_value=31, step=1)
@@ -25,9 +25,9 @@ party_encoded = party_map[party]
 
 # Prepare input data for the model
 input_data = pd.DataFrame({
-    'BDay': [bday],
-    'BMonth': [bmonth],
-    'Party': [party_encoded]
+    'bday': [bday],
+    'bmonth': [bmonth],
+    'party': [party_encoded]
 })
 
 # Make predictions when the button is clicked

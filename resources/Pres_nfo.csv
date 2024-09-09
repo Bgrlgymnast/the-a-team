@@ -1,4 +1,4 @@
-﻿Year,Party,First Name,Last Name,Nominal GDP (million of Dollars),Real GDP (millions of 2017 dollars),GDP Deflator (index 2017=100),Population,Nominal GDP per capita (current dollars),Real GDP per capita (year 2017 dollars),GDP Growth,GDP Percent Growth,Population Growth,Population Percent Growth,amount,inflation rate
+﻿Year,Party,First Name,Last Name,Nominal GDP (million of Dollars),Real GDP (millions of 2017 dollars),GDP Deflator (index 2017=100),Population,Nominal GDP per capita (current dollars),Real GDP per capita (year 2017 dollars),GDP Growth,GDP Percent Growth,Population Growth,Population Percent Growth,Value,inflation rate
 1789,Independent,George,Washington,176,"4,676",3.78,"3,810,000",46.31,"1,229.61",1,0.03,1,0.031,1,-0.01
 1790,Independent,George,Washington,193,"4,975",3.88,"3,929,000",49.1,"1,266.23",1,0.029,1,0.03,1.05,0.05
 1791,Independent,George,Washington,210,"5,274",3.98,"4,048,000",51.89,"1,302.85",1,0.042,1,0.03,1.07,0.02

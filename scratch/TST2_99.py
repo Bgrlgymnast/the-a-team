@@ -7,7 +7,7 @@ import altair as alt
 page_style = '''
 <style>
 body {
-    background-image: url("C:/Users/dell/Documents/GitHub/the-a-team/Pres_pic/WH.jpg"); 
+    background-image: url("https://github.com/Bgrlgymnast/the-a-team/tree/main/Pres_pic/WH.jpg"); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -61,8 +61,8 @@ elif theme == "Light":
     st.markdown("<style>body { color: #000000; background-color: #f4f4f4; }</style>", unsafe_allow_html=True)
 
 # Load the datasets (ensure paths are accessible or files are hosted)
-economic_data = pd.read_csv("C:/Users/dell/Documents/GitHub/the-a-team/scratch/Pres_nfo.csv")
-personal_data = pd.read_csv('C:/Users/dell/Documents/GitHub/the-a-team/scratch/Historical Presidents Physical Data (More).csv')
+economic_data = pd.read_csv("https://github.com/Bgrlgymnast/the-a-team/blob/main/resources/Pres_nfo.csv")
+personal_data = pd.read_csv('https://github.com/Bgrlgymnast/the-a-team/blob/main/Historical%20Presidents%20Physical%20Data%20(More).csv')
 
 # Create a full name column in both datasets for proper matching
 economic_data['full_name'] = economic_data['First Name'] + ' ' + economic_data['Last Name']
@@ -127,7 +127,7 @@ with st.expander("Selected Presidents with Images"):
     # Display each president's image only once
     for index, row in unique_presidents_data.iterrows():
         president_number = row['order']  # Assuming there’s an "order" column with the president’s number
-        st.image(f'https://your-image-url-here.com/{president_number}.jpg', caption=row['full_name'])
+        st.image(f'https://github.com/Bgrlgymnast/the-a-team/tree/main/Pres_pic/{president_number}.jpg', caption=row['full_name'])
 
 with st.expander("Summary Statistics for Selected Presidents"):
     avg_iq = filtered_data['corrected_iq'].mean()

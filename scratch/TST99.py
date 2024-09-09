@@ -3,8 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the datasets
-economic_data = pd.read_csv('/mnt/data/Pres_nfo.csv')
-personal_data = pd.read_csv('/mnt/data/Historical Presidents Physical Data (More).csv')
+economic_data = pd.read_csv('/Pres_nfo.csv')
+personal_data = pd.read_csv('/Historical Presidents Physical Data (More).csv')
 
 # Title of the app
 st.title('Presidents Comparison: Economic Data & Personal Insights')

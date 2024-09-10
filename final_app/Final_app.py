@@ -4,14 +4,19 @@ import pandas as pd
 from PIL import Image
 import os
 
+# Get directory
+current_dir = os.getcwd()
+if "final_app" not in current_dir:
+    current_dir = os.path.join(current_dir, 'final_app')
+
 # Load the trained models
-multi_output_classifier = joblib.load('multi_output_classifier.pkl')
-multi_output_regressor = joblib.load('multi_output_regressor.pkl')
+multi_output_classifier = joblib.load(os.path.join(current_dir, 'multi_output_classifier.pkl'))
+multi_output_regressor = joblib.load(os.path.join(current_dir, 'multi_output_regressor.pkl'))
 
 # Load the label encoders for categorical columns
-sign_encoder = joblib.load('sign_encoder.pkl')
-vp_encoder = joblib.load('VP_encoder.pkl')
-name_encoder = joblib.load('name_encoder.pkl')
+sign_encoder = joblib.load(os.path.join(current_dir, 'sign_encoder.pkl'))
+vp_encoder = joblib.load(os.path.join(current_dir, 'VP_encoder.pkl'))
+name_encoder = joblib.load(os.path.join(current_dir, 'Name_encoder.pkl'))
 
 # Path to the folder with president images
 image_folder = 'Pres_pic/'
@@ -48,7 +53,7 @@ if st.button('Predict'):
     name = name_encoder.inverse_transform([y_pred_categorical[0][2]])[0]
   
    # Display the corresponding president's picture
-    image_path = os.path.join(image_folder, f"{name}.jpg")
+    image_path = os.path.join(current_dir, image_folder, f"{name}.jpg")
     if os.path.exists(image_path):
         img = Image.open(image_path)
         st.image(img, caption=f"You are most like {name}", use_column_width=True)

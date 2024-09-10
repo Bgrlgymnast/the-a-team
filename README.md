@@ -21,7 +21,8 @@ In our final project for SMU Data Bootcamps our team has decided to use Data Mod
 ### **Stage 2**
 **Develop and optimize model**
 - Initializes Python script, trains, and evaluates a model
-    - Model output of predictive power at least 75% classification accuracy or 0.80 R-squared
+    - Model output of predictive power at least 75% classification accuracy or 0.80 R-squared (Single Model)
+    - Model output of predictive power at least 75% classification accuracy or 0.80 R-squared (Multi-ouput Model)
 - Optimize model 
     - show iterative changes 
     - show change results in model performance
@@ -30,18 +31,20 @@ In our final project for SMU Data Bootcamps our team has decided to use Data Mod
 
 ### **Stage 3**
 **Visualize** 
-- Create front end visuals with HTML, CSS, Javascript
-
+- Create front end visuals with Streamlit
 
 ### **DELIVERABLE: President**
 
-- Chooses a president: 
+- Input birth day,  birth month and party: 
     - Drop Down, reduces the chance for error and none guesses
 
 ### **Return predictions about the state of the country based on the President:**
-- Would the  US be  prosperous? 
-    - Predicted GDP growth (compare to latest dataset we can find) 
-    - Print the predicted model performance 
+- What president you are most like?
+- What VP you would get along with best?
+- Will the economy be on and upswing or downswing?
+- What was the GDP growth?
+- Population growth increase (would you be a babymaker)
+
 
 
 ### References

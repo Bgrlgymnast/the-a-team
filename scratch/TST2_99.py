@@ -61,8 +61,8 @@ elif theme == "Light":
     st.markdown("<style>body { color: #000000; background-color: #f4f4f4; }</style>", unsafe_allow_html=True)
 
 # Load the datasets (ensure paths are accessible or files are hosted)
-economic_data = pd.read_csv("/resources/Pres_nfo.csv")
-personal_data = pd.read_csv('/main/Historical President Physical Data (More).csv')
+economic_data = pd.read_csv("resources/Pres_nfo.csv")
+personal_data = pd.read_csv('main/Historical President Physical Data (More).csv')
 
 # Create a full name column in both datasets for proper matching
 economic_data['full_name'] = economic_data['First Name'] + ' ' + economic_data['Last Name']

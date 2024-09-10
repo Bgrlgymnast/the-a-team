@@ -1,6 +1,8 @@
 import streamlit as st
 import joblib
 import pandas as pd
+from PIL import Image
+import os
 
 # Load the trained models
 multi_output_classifier = joblib.load('multi_output_classifier.pkl')
@@ -10,6 +12,9 @@ multi_output_regressor = joblib.load('multi_output_regressor.pkl')
 sign_encoder = joblib.load('sign_encoder.pkl')
 vp_encoder = joblib.load('VP_encoder.pkl')
 name_encoder = joblib.load('name_encoder.pkl')
+
+# Path to the folder with president images
+image_folder = 'Pres_pic/'
 
 # Streamlit app title
 st.title("How Would you Fare as President? A Horoscope Outlook")
@@ -41,9 +46,18 @@ if st.button('Predict'):
     sign = sign_encoder.inverse_transform([y_pred_categorical[0][0]])[0]
     vp = vp_encoder.inverse_transform([y_pred_categorical[0][1]])[0]
     name = name_encoder.inverse_transform([y_pred_categorical[0][2]])[0]
-
+  
+   # Display the corresponding president's picture
+    image_path = os.path.join(image_folder, f"{name}.jpg")
+    if os.path.exists(image_path):
+        img = Image.open(image_path)
+        st.image(img, caption=f"You are most like {name}", use_column_width=True)
+     # Add a larger caption for the president's name
+        st.markdown(f"<h2 style='text-align: center;'>{name}</h2>", unsafe_allow_html=True)
+    else:
+        st.write("Sorry, we couldn't find an image for this president.")
+   
     # Display predictions for categorical outputs
-    st.write(f"You are most like {name}.")
     st.write(f"You would most likely be {sign}.")
     
     if vp == "office vacant":
@@ -70,3 +84,5 @@ if st.button('Predict'):
         st.write("Would you be a babymaker?: No")
 
     st.write(f"Population Percent Growth: {population_percent_growth*100:.2f}%")
+
+ 

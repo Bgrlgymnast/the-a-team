@@ -17,7 +17,7 @@ In our final project for SMU Data Bootcamps our team has decided to use Data Mod
 **Ingest and clean**
 - Clean, normalize, and standardize data set
 - Upload data to a database (postgress)
-
+gi
 ### **Stage 2**
 **Develop and optimize model**
 - Initializes Python script, trains, and evaluates a model
@@ -44,7 +44,6 @@ In our final project for SMU Data Bootcamps our team has decided to use Data Mod
 - Will the economy be on and upswing or downswing?
 - What was the GDP growth?
 - Population growth increase (would you be a babymaker)
-
 
 
 ### References

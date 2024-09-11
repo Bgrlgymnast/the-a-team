@@ -1,4 +1,6 @@
+altair
 joblib
+matplotlib
 numpy
 pandas
 Pillow
